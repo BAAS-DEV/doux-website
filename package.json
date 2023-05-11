@@ -1,0 +1,19 @@
+{
+  "name": "douxsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAAS-DEV/doux-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BAAS-DEV/doux-website/issues"
+  },
+  "homepage": "https://github.com/BAAS-DEV/doux-website#readme"
+}
